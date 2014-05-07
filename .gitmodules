@@ -1,0 +1,6 @@
+[submodule "lib/angular.js"]
+	path = lib/angular.js
+	url = https://github.com/angular/angular.js
+[submodule "lib/angular-phonecat"]
+	path = lib/angular-phonecat
+	url = https://github.com/angular/angular-phonecat.git
